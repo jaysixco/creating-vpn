@@ -5,6 +5,7 @@
 
 <h1>osTicket - Prerequisites and Installation</h1>
 Prerequisities: brain not necessary (just need ability to read and follow instructions), computer
+
 Install: Proton VPN <br />
 
 
