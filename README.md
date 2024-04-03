@@ -4,7 +4,8 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+Prerequisities: brain not necessary (just need ability to read and follow instructions), computer
+Install: Proton VPN <br />
 
 
 <h2>Video Demonstration</h2>
