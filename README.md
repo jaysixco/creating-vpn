@@ -18,7 +18,7 @@
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- Proton VPN (IIS)
 
 <h2>Operating Systems Used </h2>
 
