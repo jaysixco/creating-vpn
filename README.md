@@ -35,30 +35,30 @@
 <h2>Installation Steps</h2>
 
 <p>
-<strong> Find IP address of your computer </strong>
-1. Copy and paste this link - https://whatismyipaddress.com/ - in your url search bar <br>
+<strong> Find IP address of your computer </strong><br>
+1. Copy and paste this link - https://whatismyipaddress.com/ - into your url search bar <br>
 2. On this page is your IP address <br>
 //insert screenshot here, put a rectangle box around IP address <br>
 3. Write the IP address down somewhere <br>
 //insert screenshot of notepad with IP address
 
 
-<strong> Find IP address of a Virtual Machine (VM) </strong>
+<strong> Find IP address of a Virtual Machine (VM) </strong><br>
 1. Create a VM <br>
-2. Copy and paste this link - https://whatismyipaddress.com/ - in your url search bar <br>
+2. Copy and paste this link - https://whatismyipaddress.com/ - into the url search bar <br>
 3. Write the IP address down somewhere <br>
 //insert screenshot of notepad with IP address
 
-<strong> Find IP address of a Proton VPN </strong>
+<strong> Find IP address of a Proton VPN </strong><br>
 1. Close VM and sign up for a free version of Proton VPN at this link: https://account.protonvpn.com/signup?plan=free&language=en <br>  
 2. Open VM and download Proton VPN <br>
 3. Log in to Proton VPN and choose a VPN server in another country (like Japan) <br>
-4. Copy and paste this link - https://whatismyipaddress.com/ - in your url search bar <br>
+4. Copy and paste this link - https://whatismyipaddress.com/ - into the url search bar <br>
 5. Write the IP address down somewhere <br>
 //insert screenshot of notepad with IP address <br>
 6. For fun, try browsing to different sites like Google, Disney, Amazon, and/or Netflix to see if there's anything different about it. <br>
    
-<strong> Clean up Azure resources </strong>
+<strong> Clean up Azure resources </strong><br>
 1. Delete your resource groups
 2. Make sure they're deleted
 
