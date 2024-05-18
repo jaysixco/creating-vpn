@@ -35,6 +35,7 @@
 <h2>Installation Steps</h2>
 
 <p>
+ 
 <strong> Find IP address of your computer </strong><br>
 1. Copy and paste this link - https://whatismyipaddress.com/ - into your url search bar <br>
 2. On this page is your IP address <br>
@@ -45,7 +46,7 @@
 
 <strong> Find IP address of a Virtual Machine (VM) </strong><br>
 1. Create a VM <br>
-2. Copy and paste this link - https://whatismyipaddress.com/ - into the url search bar <br>
+2. Copy and paste this link - https://whatismyipaddress.com/ - into the url search bar of your VM <br>
 3. Write the IP address down somewhere <br>
 //insert screenshot of notepad with IP address
 
