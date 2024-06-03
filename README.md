@@ -106,7 +106,7 @@ You should be in different country now
 
 </p>
 <br />
-
+Proton Drive not needed. Delete later.
 Figure out where to put these screenshots if needed:
 Proton Drive Setup Wizard page, click "Next" <br>
 <img width="386" alt="image" src="https://github.com/jaysixco/creating-vpn/assets/160427311/5e2f685d-6dc8-487a-9bab-9ba4e30ca1e1">
