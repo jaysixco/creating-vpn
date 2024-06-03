@@ -96,6 +96,7 @@ Copy and paste this link - https://whatismyipaddress.com/ - into the url search 
 6. Write the IP address down somewhere <br>
 //insert screenshot of notepad with IP address <br>
 7. For fun, try browsing to different sites like Google, Disney, Amazon, and/or Netflix to see if there's anything different about it. <br>
+<br>
    
 <strong> Lab Cleanup (DON’T FORGET THIS)</strong>
 
