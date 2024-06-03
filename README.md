@@ -97,8 +97,26 @@ Copy and paste this link - https://whatismyipaddress.com/ - into the url search 
 //insert screenshot of notepad with IP address <br>
 7. For fun, try browsing to different sites like Google, Disney, Amazon, and/or Netflix to see if there's anything different about it. <br>
    
-<strong> Clean up Azure resources </strong><br>
-1. Delete your resource groups
-2. Make sure they're deleted
+<strong> Lab Cleanup (DON’T FORGET THIS)</strong>
 
+1) Close your Remote Desktop connection <br>
+   - Leave the virtual machine by clicking the underscore sign (_) in the blue bar at the top of the screen (if you hover over it for a second, it should say minimize)
+
+3) Delete the Resource Group(s) created at the beginning of this lab <br>
+   - Click the Microsoft Azure search bar and then click "Resource groups" <br>
+   - This is the Resource Group page: <br>
+<img width="959" alt="Resource Group page" src="https://github.com/jaysixco/monitoring-traffic-rd/assets/160427311/01b696ba-831f-4d17-9ada-54e0b1cd5bcf"> <br>
+  - Right click one of the 2 names and open it in a new tab  <br>
+  - Click "Delete resource group" (see screenshot below, 1)  <br>
+  - Click "Copy to Clipboard" (see screenshot below, 2)  <br>
+  - Paste (ctrl + v) the name in the box (see screenshot below, 3)  <br>
+  - Click "Delete" (see screenshot below, 4)  <br>
+  - After you follow the steps above, repeat with the other name on the Resource group page <br>
+![delete steps 1 - 4](https://github.com/jaysixco/monitoring-traffic-rd/assets/160427311/95060ea7-eba8-4b5f-89bb-aa1a32a80edf)
+
+5) Verify Resource Group Deletion <br>
+  - After doing the steps above, go to the Resources Group and wait until the groups disappear. You might have to refresh a few times. <br>
+  - When you see "No resource groups to display" (see screenshot), you are good to go and can close the site. <br>
+![no resources groups to display](https://github.com/jaysixco/monitoring-traffic-rd/assets/160427311/9726c274-9574-4b22-824f-5d5c283fd7cd)
+<br>
 </p>
