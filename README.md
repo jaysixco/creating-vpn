@@ -39,7 +39,8 @@
 <strong> Find IP address of your computer </strong><br>
 1. Copy and paste this link - https://whatismyipaddress.com/ - into your url search bar <br>
 2. On this page is your IP address <br>
-//insert screenshot here, put a rectangle box around IP address <br>
+<img width="959" alt="image" src="https://github.com/jaysixco/creating-vpn/assets/160427311/95fe3a32-8435-41b1-8f5f-a38d74756f1b">
+<br>
 3. Write the IP address down somewhere <br>
 //insert screenshot of notepad with IP address
 
@@ -47,6 +48,8 @@
 <strong> Find IP address of a Virtual Machine (VM) </strong><br>
 1. Create a VM <br>
 2. Copy and paste this link - https://whatismyipaddress.com/ - into the url search bar of your VM <br>
+<img width="960" alt="image" src="https://github.com/jaysixco/creating-vpn/assets/160427311/07634a41-06a9-48ef-bdc9-f98d42da35e6">
+<br>
 3. Write the IP address down somewhere <br>
 //insert screenshot of notepad with IP address
 
