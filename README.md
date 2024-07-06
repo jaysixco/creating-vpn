@@ -1,7 +1,7 @@
 # creating-vpn
 
 <h1>Summary</h1>
-
+Get 3 IP addresses - your computer, the virtual machine, and Proton VPN.
 
 <h2>Environments and Technologies Used</h2>
 
