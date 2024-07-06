@@ -1,10 +1,7 @@
 # creating-vpn
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1>osTicket - Summary</h1>
 
-- Prerequisities: brain not necessary (just need ability to read and follow instructions), computer
-- Install: Proton VPN
- <br />
 
 <h2>Environments and Technologies Used</h2>
 
