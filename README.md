@@ -1,6 +1,6 @@
 # creating-vpn
 
-<h1>osTicket - Summary</h1>
+<h1>Summary</h1>
 
 
 <h2>Environments and Technologies Used</h2>
