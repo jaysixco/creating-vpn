@@ -7,7 +7,7 @@ Get the IP addresses of your computer, the virtual machine, and Proton VPN.
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Proton VPN (IIS)
+- Proton VPN
 
 <h2>Operating Systems Used </h2>
 
